@@ -1,10 +1,16 @@
 # usersimulator
 A.1    Tool
+
+
 A.1.1    Description
 To prepare for the of the tool you would need to setup a special Google Chrome instance.
 To use this tool, you must run an instance of Google Chrome with the remote-debugging
 option, like in the following example.
+
+
 google-chrome –remote-debugging-port=9222
+
+
 To add the remote debugging port to chrome, open the properties of a Google Chrome
 shortcut.  Add then the in the Target section at the end .
 A.1.2    Prerequisites and Installation
