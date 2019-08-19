@@ -20,10 +20,12 @@ A.1.2    Prerequisites and Installation
 Very  few  dependencies  must  be  satisfied:  an  updated  Google-Chrome  version  and  the
 python packages requests and websocket.  Those should be installed by default.  Further-
 more following packages need to be installed.
-•tkinter
-•psutil
-•threading
-•PyChromeDevTools
+tkinter
+psutil
+threading
+PyChromeDevTools
+xlutils
+xlsxwriter
 
 Secondly, a text file called simulator.txt needs to be created.  The file should contain the
 list of URLs , which should be opened by the simulator tool.  Every URL
