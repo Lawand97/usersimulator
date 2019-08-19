@@ -21,11 +21,16 @@ Very  few  dependencies  must  be  satisfied:  an  updated  Google-Chrome  versi
 python packages requests and websocket.  Those should be installed by default.  Further-
 more following packages need to be installed.
 
-\tkinter
-\psutil
+tkinter
+
+psutil
+
 threading
+
 PyChromeDevTools
+
 xlutils
+
 xlsxwriter
 
 Secondly, a text file called simulator.txt needs to be created.  The file should contain the
